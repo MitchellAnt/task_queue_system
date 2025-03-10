@@ -1,0 +1,11 @@
+# Ignore binaries
+/bin/
+*.exe
+*.out
+
+# Ignore Go module cache
+go.sum
+
+# Ignore environment files
+.env
+
